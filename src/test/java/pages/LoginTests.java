@@ -8,7 +8,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LoginTests extends BaseTests {
-
     @Test
     @DisplayName("TC1 - Login successfully")
     public void testLoginSuccessful() {

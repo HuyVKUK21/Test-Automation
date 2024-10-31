@@ -15,4 +15,5 @@ public class HomePage {
         driver.findElement(formAuthLink).click();
         return new LoginPage(driver);
     }
+
 }
