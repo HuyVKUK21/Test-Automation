@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Bai2_FirstTestProgram" />
+        <module name="Test-Automation" />
       </profile>
     </annotationProcessing>
   </component>
